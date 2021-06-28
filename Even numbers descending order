@@ -1,0 +1,24 @@
+Public class Evendescending
+{
+Public static void main(String[] args)
+{
+While(a=20)
+{
+System.out.println(a + " ");
+a-=2;
+}
+}
+}
+
+Output:
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
